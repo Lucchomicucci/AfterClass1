@@ -1,20 +1,18 @@
 import './App.css';
+import ItemListContainer from './containers/itemListContainer';
 
 function App() {
 
   return (
     <div className="App">
       <header className="App-header">
-        Mi app de React
+        <ItemListContainer />
       </header>
     </div>
   );
 }
 
 export default App;
-
-  
-
 
 
 // Ejercicio 1: Lista de Compras

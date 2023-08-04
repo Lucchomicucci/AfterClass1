@@ -1,0 +1,9 @@
+.contenedor{
+    display: flex;
+    background-color: aqua;
+}
+
+.contenedor-marcado{
+    display: flex;
+    background-color: green;
+}
